@@ -2,9 +2,9 @@
 
 ### Data repository for the article:
 
-A Combined DFT/Machine Learning Framework for Materials Discovery: Application to Spinels and Assessment of Search Completeness and Efficiency
+[A Combined DFT/Machine Learning Framework for Materials Discovery: Application to Spinels and Assessment of Search Completeness and Efficiency](https://chemrxiv.org/articles/preprint/A_Combined_DFT_Machine_Learning_Framework_for_Materials_Discovery_Application_to_Spinels_and_Assessment_of_Search_Completeness_and_Efficiency/13070549/1)
 
-by Joshua Schiller, Lucas Wagner and Elif Ertekin
+by Joshua Schiller and Elif Ertekin
 
 ### Files:
 
