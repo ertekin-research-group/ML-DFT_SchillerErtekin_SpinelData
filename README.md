@@ -13,3 +13,7 @@ by Joshua Schiller and Elif Ertekin
 Contains distance to formation energy convex hull for all compounds calculated across all runs. Energies are adjusted according to Materials Project compatibility requirements. Energies represent the lower energy state between normal and proxy-orderered inverse comfiguration for each stoichiometry. 
 
 JSON Format: {Stoichiometry: Hull Distance (eV/atom)}
+
+#### top_predictions_all.xlsx
+
+Contains top predictions of candidate compounds and their associated model scores for the final iteration of the reinforcement learning procedure.
